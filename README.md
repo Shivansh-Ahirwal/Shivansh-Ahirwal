@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivansh-Ahirwal
-- 👀 I’m interested in learning app/game development
-- 🌱 I’m currently learning c programming
+- 👀 I’m interested in learning Data science
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on small projects with some experts
 - 📫 How to reach me my email shivanshahirwal@gmail.com
 
