@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivansh-Ahirwal
-- 👀 I’m interested in learning Data science
+- 👀 I’m interested in learning Data Engineering
 - 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on small projects with some experts
+- 💞️ I’m looking for internship in data engineering
 - 📫 How to reach me my email shivanshahirwal@gmail.com
 
 <!---
