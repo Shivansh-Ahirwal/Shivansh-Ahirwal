@@ -4,10 +4,8 @@
     <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Shivansh-Ahirwal?type=without_score" alt="Streetcred">
   </a>
 </p>
-Hi, I’m @Shivansh-Ahirwal
-I’m interested in learning Data Engineering
-I’m currently learning Python programming
-I’m looking for an internship in Data Engineering
+Hi, I’m @Shivansh-Ahirwal. I am currently working as a Python intern at a startup, collaborating with the "STA IT Solution Team" on real-life projects. I am passionate about learning Data Engineering and am actively seeking internship opportunities in this field. I am currently enhancing my Python programming skills and looking forward to expanding my expertise in Data Engineering.
+
 How to reach me: my email is shivanshahirwal@gmail.com
 <!---
 Shivansh-Ahirwal/Shivansh-Ahirwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
