@@ -31,7 +31,7 @@ More case studies on my **[portfolio](https://portfolio.shivanshahirwal.com/#inc
 | Project | What it is |
 |---|---|
 | [CodeBot](https://github.com/Shivansh-Ahirwal/CodeBot) | Autonomous code-review agent for Python/Django using LLMs, with a planner, a tool execution loop, JSON validation, Ollama local inference and Docker. |
-| [Portfolio](https://github.com/Shivansh-Ahirwal/portfolio) | My personal site in plain HTML, CSS and JS, with SEO and AI-search friendly structured data. |
+| [Portfolio](https://portfolio.shivanshahirwal.com) | My personal site in plain HTML, CSS and JS, with SEO and AI-search friendly structured data. |
 
 ## 🧰 Stack
 
